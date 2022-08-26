@@ -1,0 +1,12 @@
+Kuis Kelas XII IPA 26 Agustus 2022
+Lampu 1 - 3 Merah 
+Lampu 4 - 6 Kuning
+Lampu 7 - 8 Hijau
+(Hidupkan secara berurutan dari 1 - 8, lampu dibelakang tetap hidup)
+(10 Orang Pertama Nilai 100).
+
+
+
+
+
+

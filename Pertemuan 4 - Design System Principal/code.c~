@@ -23,7 +23,7 @@ Data Stack size         : 256
 // I/O Registers definitions
 #include <mega8.h>
 
-
+// Declare your global variables here
 
 void main(void)
 {
