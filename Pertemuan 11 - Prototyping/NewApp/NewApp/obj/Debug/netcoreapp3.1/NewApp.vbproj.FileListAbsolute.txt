@@ -1,0 +1,14 @@
+G:\My Drive\BIG DATA\SMA KRISTEN KANAAN\2022 - 2023 SEMESTER 1 TIK SMA\Kelas XII\Pertemuan 11 - Visual Studio\NewApp\NewApp\bin\Debug\netcoreapp3.1\NewApp.exe
+G:\My Drive\BIG DATA\SMA KRISTEN KANAAN\2022 - 2023 SEMESTER 1 TIK SMA\Kelas XII\Pertemuan 11 - Visual Studio\NewApp\NewApp\bin\Debug\netcoreapp3.1\NewApp.deps.json
+G:\My Drive\BIG DATA\SMA KRISTEN KANAAN\2022 - 2023 SEMESTER 1 TIK SMA\Kelas XII\Pertemuan 11 - Visual Studio\NewApp\NewApp\bin\Debug\netcoreapp3.1\NewApp.runtimeconfig.json
+G:\My Drive\BIG DATA\SMA KRISTEN KANAAN\2022 - 2023 SEMESTER 1 TIK SMA\Kelas XII\Pertemuan 11 - Visual Studio\NewApp\NewApp\bin\Debug\netcoreapp3.1\NewApp.runtimeconfig.dev.json
+G:\My Drive\BIG DATA\SMA KRISTEN KANAAN\2022 - 2023 SEMESTER 1 TIK SMA\Kelas XII\Pertemuan 11 - Visual Studio\NewApp\NewApp\bin\Debug\netcoreapp3.1\NewApp.dll
+G:\My Drive\BIG DATA\SMA KRISTEN KANAAN\2022 - 2023 SEMESTER 1 TIK SMA\Kelas XII\Pertemuan 11 - Visual Studio\NewApp\NewApp\bin\Debug\netcoreapp3.1\NewApp.pdb
+G:\My Drive\BIG DATA\SMA KRISTEN KANAAN\2022 - 2023 SEMESTER 1 TIK SMA\Kelas XII\Pertemuan 11 - Visual Studio\NewApp\NewApp\obj\Debug\netcoreapp3.1\NewApp.vbproj.AssemblyReference.cache
+G:\My Drive\BIG DATA\SMA KRISTEN KANAAN\2022 - 2023 SEMESTER 1 TIK SMA\Kelas XII\Pertemuan 11 - Visual Studio\NewApp\NewApp\obj\Debug\netcoreapp3.1\NewApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\BIG DATA\SMA KRISTEN KANAAN\2022 - 2023 SEMESTER 1 TIK SMA\Kelas XII\Pertemuan 11 - Visual Studio\NewApp\NewApp\obj\Debug\netcoreapp3.1\NewApp.AssemblyInfoInputs.cache
+G:\My Drive\BIG DATA\SMA KRISTEN KANAAN\2022 - 2023 SEMESTER 1 TIK SMA\Kelas XII\Pertemuan 11 - Visual Studio\NewApp\NewApp\obj\Debug\netcoreapp3.1\NewApp.AssemblyInfo.vb
+G:\My Drive\BIG DATA\SMA KRISTEN KANAAN\2022 - 2023 SEMESTER 1 TIK SMA\Kelas XII\Pertemuan 11 - Visual Studio\NewApp\NewApp\obj\Debug\netcoreapp3.1\NewApp.vbproj.CoreCompileInputs.cache
+G:\My Drive\BIG DATA\SMA KRISTEN KANAAN\2022 - 2023 SEMESTER 1 TIK SMA\Kelas XII\Pertemuan 11 - Visual Studio\NewApp\NewApp\obj\Debug\netcoreapp3.1\NewApp.dll
+G:\My Drive\BIG DATA\SMA KRISTEN KANAAN\2022 - 2023 SEMESTER 1 TIK SMA\Kelas XII\Pertemuan 11 - Visual Studio\NewApp\NewApp\obj\Debug\netcoreapp3.1\NewApp.pdb
+G:\My Drive\BIG DATA\SMA KRISTEN KANAAN\2022 - 2023 SEMESTER 1 TIK SMA\Kelas XII\Pertemuan 11 - Visual Studio\NewApp\NewApp\obj\Debug\netcoreapp3.1\NewApp.genruntimeconfig.cache
