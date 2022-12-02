@@ -1,0 +1,11 @@
+G:\My Drive\BIG DATA\SMA KRISTEN KANAAN\2022 - 2023 SEMESTER 1 TIK SMA\Kelas XII\Pertemuan 14 - Layout In Visual Studio 2012\MyApp\MyApp\bin\Debug\MyApp.exe.config
+G:\My Drive\BIG DATA\SMA KRISTEN KANAAN\2022 - 2023 SEMESTER 1 TIK SMA\Kelas XII\Pertemuan 14 - Layout In Visual Studio 2012\MyApp\MyApp\bin\Debug\MyApp.exe
+G:\My Drive\BIG DATA\SMA KRISTEN KANAAN\2022 - 2023 SEMESTER 1 TIK SMA\Kelas XII\Pertemuan 14 - Layout In Visual Studio 2012\MyApp\MyApp\bin\Debug\MyApp.pdb
+G:\My Drive\BIG DATA\SMA KRISTEN KANAAN\2022 - 2023 SEMESTER 1 TIK SMA\Kelas XII\Pertemuan 14 - Layout In Visual Studio 2012\MyApp\MyApp\bin\Debug\MyApp.xml
+G:\My Drive\BIG DATA\SMA KRISTEN KANAAN\2022 - 2023 SEMESTER 1 TIK SMA\Kelas XII\Pertemuan 14 - Layout In Visual Studio 2012\MyApp\MyApp\obj\Debug\WindowsApplication1.Resources.resources
+G:\My Drive\BIG DATA\SMA KRISTEN KANAAN\2022 - 2023 SEMESTER 1 TIK SMA\Kelas XII\Pertemuan 14 - Layout In Visual Studio 2012\MyApp\MyApp\obj\Debug\MyApp.vbproj.GenerateResource.Cache
+G:\My Drive\BIG DATA\SMA KRISTEN KANAAN\2022 - 2023 SEMESTER 1 TIK SMA\Kelas XII\Pertemuan 14 - Layout In Visual Studio 2012\MyApp\MyApp\obj\Debug\MyApp.exe
+G:\My Drive\BIG DATA\SMA KRISTEN KANAAN\2022 - 2023 SEMESTER 1 TIK SMA\Kelas XII\Pertemuan 14 - Layout In Visual Studio 2012\MyApp\MyApp\obj\Debug\MyApp.xml
+G:\My Drive\BIG DATA\SMA KRISTEN KANAAN\2022 - 2023 SEMESTER 1 TIK SMA\Kelas XII\Pertemuan 14 - Layout In Visual Studio 2012\MyApp\MyApp\obj\Debug\MyApp.pdb
+G:\My Drive\BIG DATA\SMA KRISTEN KANAAN\2022 - 2023 SEMESTER 1 TIK SMA\Kelas XII\Pertemuan 14 - Layout In Visual Studio 2012\MyApp\MyApp\obj\Debug\WindowsApplication1.Form1.resources
+G:\My Drive\BIG DATA\SMA KRISTEN KANAAN\2022 - 2023 SEMESTER 1 TIK SMA\Kelas XII\Pertemuan 14 - Layout In Visual Studio 2012\MyApp\MyApp\obj\Debug\WindowsApplication1.Form2.resources
